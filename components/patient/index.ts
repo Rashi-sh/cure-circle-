@@ -1,0 +1,7 @@
+export { PatientDashboard } from "./patient-dashboard"
+export { PatientSidebar } from "./patient-sidebar"
+export { PatientLayout } from "./patient-layout"
+export { PersonalInfoTab } from "./tabs/personal-info-tab"
+export { HealthProfileTab } from "./tabs/health-profile-tab"
+export { HealthVaultTab } from "./tabs/health-vault-tab"
+export { FamilyTab } from "./tabs/family-tab"

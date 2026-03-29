@@ -1,0 +1,7 @@
+export { FeatureCard } from "./feature-card"
+export { DoctorCard } from "./doctor-card"
+export type { Doctor } from "./doctor-card"
+export { RemedyCard } from "./remedy-card"
+export type { Remedy } from "./remedy-card"
+export { PathyCard } from "./pathy-card"
+export type { HealingSystem } from "./pathy-card"

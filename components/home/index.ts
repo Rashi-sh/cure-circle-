@@ -1,0 +1,6 @@
+export { HeroSection } from "./hero-section"
+export { TreatmentApproaches } from "./treatment-approaches"
+export { RemediesPreview } from "./remedies-preview"
+export { DoctorCTA } from "./doctor-cta"
+export { FAQSection } from "./faq-section"
+export { WhyChooseUs } from "./why-choose-us"
