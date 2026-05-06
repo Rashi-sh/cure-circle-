@@ -1,5 +1,5 @@
 ```md
-# 🩺 CureCircle  
+# 🩺 CureCircle 
 ### *Explore. Understand. Choose the Right Treatment.*
 
 ---
